@@ -9,7 +9,7 @@ As such, we have created a visualization in Tableau to present this information.
 
 ## Resources
   * Data Source: [NASA Data Portal](https://data.nasa.gov/Space-Science/Meteorite-Landings/gh4g-9sfh)
-  * Software: Tableau
+  * Software: Tableau 22.2.1
 
 ## Results
 Working with Tableau, we created a visualization representing the dataset. The map can be found [here](https://public.tableau.com/views/MeteoriteLandings_16703066849720/Meteorites?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link).
