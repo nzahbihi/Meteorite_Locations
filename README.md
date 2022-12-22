@@ -16,7 +16,7 @@ Working with Tableau, we created a visualization representing the dataset. The m
 
 ![Meteorite Map](https://user-images.githubusercontent.com/106129195/205836461-7548580e-edce-4194-9d9b-046b7bd7030e.png)
 
-The user can input a year range to see what meteorites were recorded. The user can also move the map around to go around the globe. The information provided for each data point is as follows:
+The user can input a year range to see what meteorites were recorded for that range. The user can also move the map around to go around the globe. The information provided for each data point is as follows:
 - Name
 - Class
 - ID
